@@ -4,9 +4,9 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: 小孩子
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
+description: ""
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
@@ -64,7 +64,7 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems:
+plugins:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
@@ -92,11 +92,11 @@ disqus:
     username: mzlogin
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: 
+    repo: 
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 
+        client_secret: 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 

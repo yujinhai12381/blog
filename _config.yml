@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 小孩子
 subtitle: "一花一世界，一叶一菩提"
 description: ""
-keywords: 
+keywords: yujinhai, 于金海
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Jerry
+author: yujinhai
 organization: 
 organization_url: 
 github_username: yujinhai12381

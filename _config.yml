@@ -91,7 +91,7 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: yujinhai
+    username: yujinhai12381
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 
@@ -106,4 +106,4 @@ lazy_load_disqus : true
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: 

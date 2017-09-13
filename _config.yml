@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: http://172.17.239.225:9000
+baseurl: yujinhai.cn
+url: yujinhai.cn
 date_format: "ordinal"
 title: 小孩子
 subtitle: "一花一世界，一叶一菩提"
@@ -81,7 +81,7 @@ collections:
 repository: 
 #host: 172.17.239.225
 host: 47.94.229.74
-port: 9000
+port: 80
 # ---------------- #
 #      Comments    #
 # ---------------- #

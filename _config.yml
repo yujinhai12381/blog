@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://172.17.239.225:9000
 date_format: "ordinal"
 title: 小孩子
-subtitle: "打码改变人生"
+subtitle: "一花一世界，一叶一菩提"
 description: ""
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Jerry
+organization: 
+organization_url: 
+github_username: yujinhai12381
+location: beijing, China
+email: yujinhai12381@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,8 +78,10 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
-
+repository: 
+#host: 172.17.239.225
+host: 47.94.229.74
+port: 9000
 # ---------------- #
 #      Comments    #
 # ---------------- #
@@ -89,7 +91,7 @@ comments_provider: gitment
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: mzlogin
+    username: yujinhai
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 

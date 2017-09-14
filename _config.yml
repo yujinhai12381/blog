@@ -80,10 +80,10 @@ collections:
 
 repository: 
 #host: 172.17.239.225
-host: 47.94.229.74
-port: 80
-# ---------------- #
-#      Comments    #
+#host: 47.94.229.74
+host: yujinhai.cn
+port: 443
+# ---------------- # #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment
 comments_provider: gitment

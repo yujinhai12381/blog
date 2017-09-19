@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: Vim
-categories: Vim
-description: 个人最常用的 Vim 常用操作。
-keywords: Vim
+title: Go 
+categories: Go
+description: Go语言格言。
+keywords: go
 ---
 
 ### 格言

@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Go 
+title: Go格言 
 categories: Go
 description: Go语言格言。
 keywords: go
